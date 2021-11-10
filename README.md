@@ -20,5 +20,5 @@ rmnstepaniuk@gmail.com
 - Telegram: 
 [rmnstepaniuk](https://t.me/rmnstepaniuk)
 - Instagram: 
-[@rmnstepaniuk](https://instagram.com/rmnstepaniuk)
+[@rmnstepaniuk](https://www.instagram.com/rmnstepaniuk/)
 
