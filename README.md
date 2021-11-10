@@ -7,6 +7,7 @@
 ##
 ### 💡 Interests
 🌍 Travelling 
+🏕 Hiking
 ⚽ Football
 🏒 Ice hockey
 🎮 Gaming (PC)
