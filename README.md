@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello and welcome 👋
+😄 My name is Roman
 
-<!--
-**rmnstepaniuk/rmnstepaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm Computer Engineering student at FICT, NTUU "Igor Sikorsky Kyiv Politechnic Institute"
+ 
+🌆 Currenly living in Kyiv, Ukraine
+##
+### 💡 Interests
+🌍 Travelling 
+⚽ Football
+🏒 Ice hockey
+🎮 Gaming (PC)
+🎸 Guitar
+🎹 Piano
+📖Reading
+##
+### 📫 How to reach me:
+- E-mail: 
+rmnstepaniuk@gmail.com
+- Telegram: 
+[rmnstepaniuk](https://t.me/rmnstepaniuk)
+- Instagram: 
+[@rmnstepaniuk](https://instagram.com/rmnstepaniuk)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
