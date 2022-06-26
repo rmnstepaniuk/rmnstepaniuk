@@ -1,4 +1,4 @@
-## Hello and welcome 👋
+## Hello 👋
 😄 My name is Roman
 
 📚 I'm Computer Engineering student at FICE, NTUU "Igor Sikorsky Kyiv Politechnic Institute"
