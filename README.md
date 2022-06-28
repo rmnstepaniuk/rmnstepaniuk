@@ -23,7 +23,7 @@
 ##
 ### 📫 How to reach me:
 - E-mail: 
-rmnstepaniuk@gmail.com
+mailto:rmnstepaniuk@gmail.com
 - Telegram: 
 [rmnstepaniuk](https://t.me/rmnstepaniuk)
 - Instagram: 
