@@ -26,5 +26,5 @@
 - Telegram: 
 [rmnstepaniuk](https://t.me/rmnstepaniuk)
 - Instagram: 
-[@rmnstepaniuk](https://www.instagram.com/rmnstepaniuk/)
+[rmnstepaniuk](https://www.instagram.com/rmnstepaniuk/)
 
