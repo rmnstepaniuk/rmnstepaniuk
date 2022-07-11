@@ -9,7 +9,6 @@
 <code>🎓 Student: KPI / IV-91</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Java</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 ##
 ### 💡 Interests
 🌍 Travelling 
