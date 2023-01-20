@@ -7,7 +7,6 @@
 ##
 ### [Profile](https://github.com/HowProgrammingWorks/Profile)
 <code>🎓 Student: KPI / IV-91</code>
-<code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Java</code>
 ##
 ### 💡 Interests
