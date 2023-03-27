@@ -1,7 +1,7 @@
 ## Hello 👋
 😄 My name is Roman
 
-📚 I'm Computer Engineering student at FICE, NTUU "Igor Sikorsky Kyiv Politechnic Institute"
+📚 I'm Computer Engineering student at FICE, NTUU "Ihor Sikorsky Kyiv Politechnic Institute"
  
 🌆 Currenly living in Kyiv, Ukraine
 ##
