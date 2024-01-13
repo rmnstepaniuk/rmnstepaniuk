@@ -1,13 +1,13 @@
 ## Hello 👋
 😄 My name is Roman
 
-📚 I'm Computer Engineering student at FICE, NTUU "Ihor Sikorsky Kyiv Politechnic Institute"
+📚 I'm Computer Engineering master's student at FICE, NTUU "Ihor Sikorsky Kyiv Politechnic Institute"
  
 🌆 Currenly living in Kyiv, Ukraine
 ##
-### [Profile](https://github.com/HowProgrammingWorks/Profile)
-<code>🎓 Student: KPI / IV-91</code>
-<code>🧑‍💻 Languages: Java</code>
+### Profile
+<code>🎓 Student: KPI / IO-31mp</code>
+<code>🧑‍💻 Programming Languages: Java</code>
 ##
 ### 💡 Interests
 🌍 Travelling 
