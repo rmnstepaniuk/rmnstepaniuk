@@ -7,7 +7,7 @@
 ##
 ### Profile
 <code>🎓 Student: KPI / IO-31mp</code>
-<code>🧑‍💻 Programming Languages: Java</code>
+<code>🧑‍💻 Programming Languages: Java JavaScript TypeScript</code>
 ##
 ### 💡 Interests
 🌍 Travelling 
