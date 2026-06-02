@@ -7,7 +7,7 @@
 ##
 ### Profile
 [//]: # (<code>🎓 Student: KPI / IO-31mp</code>)
-<code>🧑‍💻 Programming Languages: Java, JavaScript, TypeScript</code>
+<code>🧑‍💻 Programming Languages: 🟢 Java, 🟢 JavaScript, 🟢 TypeScript 🟠 Rust</code>
 ##
 [//]: # (### 💡 Interests)
 [//]: # (🌍 Travelling 🏕 Hiking ⚽ Football 🏒 Ice hockey 🎮 Gaming 🎸 Guitar 🎹 Piano 📖Reading)
